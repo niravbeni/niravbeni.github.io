@@ -9,7 +9,6 @@
 }
 .center {
     position: absolute;
-    border: 1px solid blue;
     width: 275px;
     height: 25px;
     top: 50%;
